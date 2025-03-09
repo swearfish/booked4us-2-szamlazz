@@ -1,1 +1,8 @@
-
+*.xlsx
+*.csv
+build/**
+dist/**
+data/**
+*.pyc
+*.spec
+.DS_Store
